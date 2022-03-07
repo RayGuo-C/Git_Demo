@@ -40,11 +40,12 @@ git checkout branch_name # We will switch to this new branch
 git branch # See how many branches do you have?
 
 
+
 ```
-git push -u origin 
-git remote add origin https://github.com/RayGuo-C/Git_Demo
-git branch -a
-```
+git push -u origin\
+git remote add origin https://github.com/RayGuo-C/Git_Demo\
+git branch -a\
+
 
 ![图片](https://user-images.githubusercontent.com/34149368/138608048-8115bece-0538-4929-ac1f-c4f38da8d079.png)
 There are three stages:
